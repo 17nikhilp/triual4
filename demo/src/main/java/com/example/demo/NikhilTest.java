@@ -1,6 +1,7 @@
 package com.example.demo;
 
 public class NikhilTest {
-    
-    System.out.println("Nikhil is back");
+
+    void run1(){
+    System.out.println("nik is back");}
 }
